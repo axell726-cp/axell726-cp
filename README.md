@@ -99,15 +99,15 @@ Mobile application connected to REST APIs developed in Spring Boot.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=axell726-cp&show_icons=true&theme=dracula" height="160"/>
 
 <img src="https://streak-stats.demolab.com?user=axell726-cp&theme=dracula" height="160"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=axell726-cp&theme=dracula&margin-w=8&margin-h=8" height="160"/>
-
-</div>
+</p>
 
 ---
 
